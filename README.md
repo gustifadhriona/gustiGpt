@@ -1,14 +1,21 @@
-# gustiseek-ext README
+# GustiGPT
 
-GustiGPT
+GustiGPT is VSCode extension to run deepseek opensource ai in local ecosystem.
 
 ## Features
 
-GustiGPT
+Asking to ai locally without internet
 
 ## Requirements
 
-GustiGPT
+- Install ollama
+- Node version >= 20
+- npm install -g yo generator-code
+- yo code
+- npm install ollama
+- ollama run deepseek-r1:7b
+- npx vsce package
+- code --install-extension gustiseek-ext-0.0.1.vsix
 
 ## Extension Settings
 
